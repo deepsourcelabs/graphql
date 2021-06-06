@@ -1,4 +1,6 @@
-# graphql [![GoDoc](https://godoc.org/github.com/machinebox/graphql?status.png)](http://godoc.org/github.com/machinebox/graphql) [![Build Status](https://travis-ci.org/machinebox/graphql.svg?branch=master)](https://travis-ci.org/machinebox/graphql) [![Go Report Card](https://goreportcard.com/badge/github.com/machinebox/graphql)](https://goreportcard.com/report/github.com/machinebox/graphql)
+# graphql
+
+`Fork of machinebox/graphql library which is not maintained actively.`
 
 Low-level GraphQL client for Go.
 
@@ -13,7 +15,7 @@ Low-level GraphQL client for Go.
 Make sure you have a working Go environment. To install graphql, simply run:
 
 ```
-$ go get github.com/machinebox/graphql
+$ go get github.com/deepsource/graphql
 ```
 
 ## Usage
