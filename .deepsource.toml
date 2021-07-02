@@ -6,3 +6,6 @@ enabled = true
 
   [analyzers.meta]
   import_root = "github.com/deepsourcelabs/graphql"
+[[analyzers]]
+name = "secrets"
+enabled = true
